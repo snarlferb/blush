@@ -1,0 +1,27 @@
+The following individuals have contributed in some form or another to the foundation, and should be credited as such:
+
+**mksh Shell Contributors**:
+- Thorsten Glaser: The primary developer and maintainer of mksh.
+- MirBSD Developers: Contributors to the MirBSD project, including mksh.
+- Todd C. Miller: Contributor to OpenBSD, whose code has been utilized in mksh.
+- Nicolas Joly: Contributor to OpenBSD, involved in development related to system administration tools.
+- Jonathan Gray: Contributor to OpenBSD, whose work has influenced mksh.
+- Rene Rebe: Contributor to mksh, involved in development and testing.
+- Steffen Nurpmeso: Contributor to mksh, enhancing the shell's features.
+- Others: Christian "feinerer" Weisgerber, Carlos Sobrado, Juan Antonio Martinez Cano,
+  Philip Guenther, Theo de Raadt & Daniel Richard G.
+
+**KornShell Contributors**:
+- David Korn: Developed the original Korn Shell (ksh) at AT&T Bell Laboratories.
+- Eric Gisin: Contributed to the Korn Shell (ksh).
+
+**ksh93 Shell Contributors**:
+- David Korn: Continued work on ksh93.
+- Glenn Fowler: Co-developed ksh93.
+- Others: Phong Vo, Kurt Schoens, Paul Falstad & Norman Wilson.
+
+**Bash Shell Contributors**:
+- Brian Fox: The original author of the GNU Bash shell.
+- Chet Ramey: Maintainer of Bash and the GNU Readline library, responsible for numerous updates.
+- Arnold Robbins: Significant contributor to GNU Bash and various GNU utilities.
+- Werner Fink: Contributor to Bash, known for various patches and enhancements.
