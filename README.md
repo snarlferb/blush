@@ -1,7 +1,7 @@
 # blush
 
 ### Contributing
-I'm looking for like-minded people to collaborate with. Feel free to clone and make pull requests as you please. Contributors can create their own branches or use default. We are in the early stages and spitballing ideas, and theres nothing terribly serious going on yet; Even if you just want to get the ball rolling to start a conversation, i think it would be interesting for us to think about these things.
+I'm looking for like-minded people to collaborate with. Feel free to clone and make pull requests as you please. Contributors can create their own branches or use default. We are in the early stages of spitballing ideas, and theres nothing terribly serious going on yet—if you want to get the ball rolling and start a conversation, then i would be delighted to join you in that process.
 
 ### Preface
 I need to have a shell that's as fast as mksh, but w/ some of the same traits as bash (if someone wants to help me test/make comparisons to pdksh (ksh88), ksh93 and other shells i would appreciate it) The main reason being because i plan to use it while building Linux From Scratch, and that happens to be one of the main things that is hindering performance. As such, i need the shell to be sympathetic to its own size and speed.
