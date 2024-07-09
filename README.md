@@ -13,6 +13,6 @@ I need to have a shell that's as fast as mksh, but w/ some of the same traits as
 - [ ] Commands to consider adding: caller, compgen (maybe), compopt (maybe), coproc, cpio (i just like this command, even as a separate idea), declare (maybe), logout, readarray, shopt...
 - [ ] Key Panel Idea: Vi Mode, or having switchable modes (i call panels) never quite felt complete, but i suppose its because theres no indication of whats going on like there is in an editor; We may want to think about how this should work, that is how to access/switch modes (Emacs, Vi and Mimode), and/or how the broader framework of each key panel should work collectively.
 - [ ] We also have every compiler ever conceived of since 1975 in Build.sh, but no QBE. Can we remove Borland and Digital Mars and add QBE atleast, i think we should. There's other things too-but one step at a time.
-- [ ] Once we work on that, then it'll be utilized as the main shell for Linux From Scratch, which i will start making a collection of scripts for in [**temporary-link**](../../../ftw/blob/main/README.md)
+- [ ] Once we work on that, then it'll be utilized as the main shell for Linux From Scratch, which i will start making a collection of scripts for in [**temporary-link**](../../../ftemp/blob/main/README.md)
 ***
 
