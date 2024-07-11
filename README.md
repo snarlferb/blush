@@ -4,7 +4,7 @@
 I'm looking for like-minded people to collaborate with. Feel free to clone and make pull requests as you please. Contributors can create their own branches or use default. We are in the early stages of spitballing ideas, and theres nothing terribly serious going on yet—if you want to get the ball rolling and start a conversation, then i would be delighted to join you in that process.
 
 ### Preface
-I need to have a shell that's as fast as mksh, but w/ some of the same traits as bash (if someone wants to help me test/make comparisons to pdksh (ksh88), ksh93, lksh and other shells i would appreciate it) The main reason being because i plan to use it while building Linux From Scratch, and that happens to be one of the main things that is hindering performance. As such, i need the shell to be sympathetic to its own size and speed.
+I need to have a shell that's as fast as mksh, but w/ some of the same traits as bash (if someone wants to help me test/make comparisons i would appreciate it) The main reason being because i plan to use it while building Linux From Scratch, and that happens to be one of the main things that is hindering performance. As such, i need the shell to be sympathetic to its own size and speed, so ive done alot of weeding out and i plan to have this uploaded as soon as i have the necessary features in place. 
 
 ## Ideas to play with
 - [ ] Implement the histsearch (otherwise known as "Reverse-i-search") more accurately to how it functions in bash, within the same line; and that way it doesnt submit lines for each character.
