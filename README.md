@@ -1,4 +1,4 @@
-# blush (blau - almost ready)
+# blush
 
 ### Contributing
 I'm looking for like-minded people to collaborate with. Feel free to clone and make pull requests as you please. Contributors can create their own branches or use default. We are in the early stages of spitballing ideas, and theres nothing terribly serious going on yet—if you want to get the ball rolling and start a conversation, then i would be delighted to join you in that process.
@@ -17,3 +17,4 @@ I need to have a shell that's as fast as mksh, but w/ some of the same traits as
 - [ ] Once we work on that, then it'll be utilized as the main shell for Linux From Scratch, which i will start making a collection of scripts for in [**temporary-link**](../../../ftemp/blob/main/README.md)
 ***
 
+**blau - status**: almost ready
