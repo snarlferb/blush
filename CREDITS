@@ -4,7 +4,7 @@ The following individuals have contributed in some form or another to the founda
 - David Korn: Developed the original Korn Shell (ksh) at AT&T Bell Laboratories.
 - Eric Gisin: Contributed to the Korn Shell (ksh).
 - Thorsten Glaser: The primary developer and maintainer of mksh.
-- MirBSD Developers: Contributors to the MirBSD project, including mksh.
+**MirBSD Developers: Contributors to the MirBSD project, including mksh**:
 - Todd C. Miller: Contributor to OpenBSD, whose code has been utilized in mksh.
 - Nicolas Joly: Contributor to OpenBSD, involved in development related to system administration tools.
 - Jonathan Gray: Contributor to OpenBSD, whose work has influenced mksh.
@@ -12,7 +12,6 @@ The following individuals have contributed in some form or another to the founda
 - Steffen Nurpmeso: Contributor to mksh, enhancing the shell's features.
 - Others: Christian "feinerer" Weisgerber, Carlos Sobrado, Juan Antonio Martinez Cano,
   Philip Guenther, Theo de Raadt & Daniel Richard G.
-
 **Bash Shell Contributors**:
 - Brian Fox: The original author of the GNU Bash shell.
 - Chet Ramey: Maintainer of Bash and the GNU Readline library, responsible for numerous updates.
