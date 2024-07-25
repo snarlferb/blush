@@ -54,7 +54,7 @@ Command Handling:
 
   - `5_8_syn.c`: ...
 
-Panels (modes):
+Panels:
 
 - `6_xxx.c`: ...
 
@@ -68,7 +68,10 @@ Shell Subsystem/Input Line:
 
   - `7_2_input.c`: ...
 
-  - `7_3_edit.c`: readline features and such
+  - `7_3_edit.c`: readline integration, and how we decide to integrate w/ things like GDB
+    - It may be necessary to do something like the following:
+    - Native Mode: Our edit/input line or similar implementation for regular shell operations.
+    - Compat Mode: Use readline when specific features or compatibility is required.
 
   - `7_4_temp.c`: temporary... as we may break edit.c out into two primary readline files
 
