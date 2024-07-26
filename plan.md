@@ -68,7 +68,7 @@ Shell Subsystem/Input Line:
 
   - `7_2_input.c`: ...
 
-  - `7_3_edit.c`: note: readline integration
+  - `7_3_edit.c`: note: im experimenting w/ how to integrate
 
   - `7_4_temp.c`: temporary... as we may break edit.c out into two primary readline files
 
